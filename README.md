@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sudheendra Rao
 
-<!--
-**ankhagrass/ankhagrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building practical tools with AI.**
 
-Here are some ideas to get you started:
+I’m interested in simple, useful solutions for healthcare, Vedic and Sanskrit studies, and spiritual works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of interest
+
+- **Healthcare and medicine** — supporting medical workflows, research, and access to information.
+- **Vedic studies** — preserving, organizing, and exploring Vedic texts.
+- **Sanskrit** — making texts easier to read, search, and study.
+- **Spiritual works** — tools for studying and engaging with spiritual literature.
+
+## Current public project
+
+### [Project Save](https://github.com/ankhagrass/project-save)
+
+A browser-local tool for incremental project backups, content verification, and versioned recovery. Experimental, open source, and licensed under MIT.
+
+## How I work
+
+Keep tools simple. Solve a practical problem. Use AI thoughtfully, and test and review the results.
